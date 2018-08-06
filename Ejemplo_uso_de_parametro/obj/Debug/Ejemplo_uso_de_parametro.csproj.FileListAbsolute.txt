@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\Ejemplo_uso_de_parametro\Ejemplo_uso_de_parametro\bin\Debug\Ejemplo_uso_de_parametro.exe.config
+C:\Users\Mauricio M\Downloads\Ejemplo_uso_de_parametro\Ejemplo_uso_de_parametro\bin\Debug\Ejemplo_uso_de_parametro.exe
+C:\Users\Mauricio M\Downloads\Ejemplo_uso_de_parametro\Ejemplo_uso_de_parametro\bin\Debug\Ejemplo_uso_de_parametro.pdb
+C:\Users\Mauricio M\Downloads\Ejemplo_uso_de_parametro\Ejemplo_uso_de_parametro\obj\Debug\Ejemplo_uso_de_parametro.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\Ejemplo_uso_de_parametro\Ejemplo_uso_de_parametro\obj\Debug\Ejemplo_uso_de_parametro.exe
+C:\Users\Mauricio M\Downloads\Ejemplo_uso_de_parametro\Ejemplo_uso_de_parametro\obj\Debug\Ejemplo_uso_de_parametro.pdb
